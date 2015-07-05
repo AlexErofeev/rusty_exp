@@ -1,0 +1,7 @@
+[package]
+name = "rusty_exp"
+version = "0.1.0"
+authors = ["fram"]
+
+[dependencies]
+sdl2 = "0.5.0"
